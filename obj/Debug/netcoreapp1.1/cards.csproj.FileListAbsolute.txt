@@ -1,0 +1,16 @@
+C:/Users/John/Desktop/DojoAssignments/netCore/projects/cards/bin/Debug/netcoreapp1.1/cards.deps.json
+C:/Users/John/Desktop/DojoAssignments/netCore/projects/cards/bin/Debug/netcoreapp1.1/cards.runtimeconfig.json
+C:/Users/John/Desktop/DojoAssignments/netCore/projects/cards/bin/Debug/netcoreapp1.1/cards.runtimeconfig.dev.json
+C:/Users/John/Desktop/DojoAssignments/netCore/projects/cards/bin/Debug/netcoreapp1.1/cards.dll
+C:/Users/John/Desktop/DojoAssignments/netCore/projects/cards/bin/Debug/netcoreapp1.1/cards.pdb
+C:/Users/John/Desktop/DojoAssignments/netCore/projects/cards/obj/Debug/netcoreapp1.1/cards.AssemblyInfo.cs
+C:/Users/John/Desktop/DojoAssignments/netCore/projects/cards/obj/Debug/netcoreapp1.1/cards.dll
+C:/Users/John/Desktop/DojoAssignments/netCore/projects/cards/obj/Debug/netcoreapp1.1/cards.pdb
+/Users/paulfranco/Desktop/cards/bin/Debug/netcoreapp1.1/cards.deps.json
+/Users/paulfranco/Desktop/cards/bin/Debug/netcoreapp1.1/cards.runtimeconfig.json
+/Users/paulfranco/Desktop/cards/bin/Debug/netcoreapp1.1/cards.runtimeconfig.dev.json
+/Users/paulfranco/Desktop/cards/bin/Debug/netcoreapp1.1/cards.dll
+/Users/paulfranco/Desktop/cards/bin/Debug/netcoreapp1.1/cards.pdb
+/Users/paulfranco/Desktop/cards/obj/Debug/netcoreapp1.1/cards.AssemblyInfo.cs
+/Users/paulfranco/Desktop/cards/obj/Debug/netcoreapp1.1/cards.dll
+/Users/paulfranco/Desktop/cards/obj/Debug/netcoreapp1.1/cards.pdb
